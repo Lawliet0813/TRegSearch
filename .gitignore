@@ -1,0 +1,9 @@
+data/chroma_db/
+uploads/
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+*.egg-info/
+.venv/
+venv/
